@@ -7,7 +7,6 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 
 # ✨ Funkce:
 - 📄 Výpis všech článků se stránkováním  
-- 🔍 Vyhledávání článků podle názvu  
 - ➕ Vytvoření nového článku s validací vstupů  
 - ✏️ Úprava existujícího článku  
 - ❌ Smazání článku (s potvrzením v modalu)  
