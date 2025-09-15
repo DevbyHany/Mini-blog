@@ -24,19 +24,16 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 
 # Kroky:
 1. Naklonuj repozitář  
-   git clone https://github.com/DevbyHany/mini-blog.git
-   cd mini-blog
+   git clone https://github.com/DevbyHany/Mini-blog.git
+   cd Mini-blog
 
-2. Spusť aplikaci  
-   mvn spring-boot:run
+2. Spusť aplikaci (Spuštění bez instalace Mavenu (Maven Wrapper))
+   Windows (CMD/PowerShell):
+   .\mvnw.cmd spring-boot:run
    
 3. Otevři v prohlížeči  
-   - Aplikace: [http://localhost:8080/articles](http://localhost:8080/articles)  
-   - H2 Console: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)  
-     - **JDBC URL**: `jdbc:h2:mem:testdb`  
-     - **User**: `sa`  
-     - **Password**: (prázdné)
-
+   - Aplikace: [http://localhost:8080/articles](http://localhost:8080/articles)
+     
 ---
 
 # 🛠 Použité technologie:
