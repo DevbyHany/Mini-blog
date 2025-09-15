@@ -1,7 +1,7 @@
 # 📝 Mini-Blog (Spring Boot + Thymeleaf + H2)
 
 Jednoduchá blogová aplikace postavená na Spring Boot 3, Thymeleaf a H2 databázi.  
-Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smazání, zobrazení).  
+Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smazání, zobrazení).   
 
 ---
 
