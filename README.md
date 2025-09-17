@@ -6,12 +6,12 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 ---
 
 # Funkce:
-- 📄 Výpis všech článků se stránkováním  
-- ➕ Vytvoření nového článku s validací vstupů  
-- ✏️ Úprava existujícího článku  
-- ❌ Smazání článku (s potvrzením v modalu)  
-- ⚠️ Zobrazení chybových hlášek a flash zpráv (success/error)  
-- 💾 H2 databáze inicializovaná testovacími daty (`data.sql`)  
+- Výpis všech článků se stránkováním  
+- Vytvoření nového článku s validací vstupů  
+- Úprava existujícího článku  
+- Smazání článku (s potvrzením v modalu)  
+- Zobrazení chybových hlášek a flash zpráv (success/error)  
+- H2 databáze inicializovaná testovacími daty (`data.sql`)  
 
 ---
 
