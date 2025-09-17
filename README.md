@@ -23,14 +23,15 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 
 # Kroky:
 1. Naklonuj repozitář (CMD/PowerShell)
+   - cd /d %USERPROFILE%\Desktop
    - git clone https://github.com/DevbyHany/Mini-blog.git
    - cd Mini-blog
 
-2. Spusť aplikaci (Spuštění bez instalace Mavenu (Maven Wrapper))
+3. Spusť aplikaci (Spuštění bez instalace Mavenu (Maven Wrapper))
    - .\mvnw.cmd spring-boot:run
    
-3. Otevři v prohlížeči  
-   - Aplikace: [http://localhost:8080/articles](http://localhost:8080/articles)
+4. Otevři v prohlížeči  
+   - Aplikace: http://localhost:8080/articles
      
 ---
 
