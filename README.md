@@ -25,7 +25,9 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 2.https://adoptium.net/temurin/releases/?version=17
 # Kroky:
 1. Naklonuj repozitář (CMD/PowerShell)
-   - cd /d %USERPROFILE%\Desktop
+   - cd /d C:\
+   - mkdir mini-blog-test
+   - cd mini-blog-test
    - git clone https://github.com/DevbyHany/Mini-blog.git
    - cd Mini-blog
 
