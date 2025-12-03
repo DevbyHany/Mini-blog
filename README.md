@@ -22,8 +22,11 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 - Maven
 - Pro správné spuštění programu je potřeba mít nainstalováno:
   
-1.https://git-scm.com/install/windows
-2.https://adoptium.net/temurin/releases/?version=17
+  1.https://git-scm.com/install/windows
+  2.https://adoptium.net/temurin/releases/?version=17
+
+---
+
 # Kroky:
 1. Naklonuj repozitář (CMD/PowerShell)
    - cd /d C:\
