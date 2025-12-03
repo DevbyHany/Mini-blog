@@ -23,6 +23,7 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 - Pro správné spuštění programu je potřeba mít nainstalováno:
   
   1.https://git-scm.com/install/windows
+  
   2.https://adoptium.net/temurin/releases/?version=17
 
 ---
