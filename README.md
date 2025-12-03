@@ -36,12 +36,14 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
    - git clone https://github.com/DevbyHany/Mini-blog.git
    - cd Mini-blog
 
-3. Spusť aplikaci (Spuštění bez instalace Mavenu (Maven Wrapper))
+3. Spusť aplikaci
    - .\mvnw.cmd spring-boot:run
    
 4. Otevři v prohlížeči  
    - Aplikace: http://localhost:8080/articles
-     
+
+     [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/DevbyHany/Mini-blog?quickstart=1)
+
 ---
 
 # Použité technologie:
