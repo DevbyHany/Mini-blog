@@ -26,8 +26,8 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 # Kroky:
 1. Naklonuj repozitář (CMD/PowerShell)
    - cd /d C:\
-   - mkdir mini-blog-test
-   - cd mini-blog-test
+   - mkdir mini-blog
+   - cd mini-blog
    - git clone https://github.com/DevbyHany/Mini-blog.git
    - cd Mini-blog
 
