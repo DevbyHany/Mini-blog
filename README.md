@@ -36,7 +36,23 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 - Úprava existujícího článku  
 - Smazání článku (s potvrzením v modalu)  
 - Zobrazení chybových hlášek a flash zpráv (success/error)  
-- H2 databáze inicializovaná testovacími daty (`data.sql`)  
+- H2 databáze
+
+---
+
+## Backend Features
+- návrh REST API
+- validace dat pomocí @Valid
+- práce s databází přes JPA/Hibernate
+- oddělení vrstev (controller → service → repository)
+
+---
+
+## API Endpoints
+- GET /articles
+- POST /articles
+- PUT /articles/{id}
+- DELETE /articles/{id}
 
 ---
 
