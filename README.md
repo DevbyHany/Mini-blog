@@ -40,7 +40,7 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 
 ---
 
-## Backend Features
+## Backend features
 - návrh REST API
 - validace dat pomocí @Valid
 - práce s databází přes JPA/Hibernate
@@ -48,7 +48,7 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 
 ---
 
-## API Endpoints
+## API endpointy
 - GET /articles
 - POST /articles
 - PUT /articles/{id}
