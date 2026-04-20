@@ -80,31 +80,6 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 
 ---
 
-# Ukázky obrazovek:
-
-## Výpis článků
-![Výpis článků](docs/images/list.png)
-
-## Formulář pro nový článek
-![Nový článek](docs/images/new.png)
-
-## Detail článku
-![Detail článku](docs/images/detail.png)
-
-## Edit článku
-![Edit článku](docs/images/edit.png)
-
-## Flash zprávy
-![Odstranění](docs/images/flash-delete.png)
-![Úprava](docs/images/flash-edit.png)
-![Nový](docs/images/flash-new.png)
-
-## Ostatní
-![NotBlank](docs/images/notblank-message.png)
-![Delete](docs/images/delete-message.png)
-
----
-
 # Další rozvoj
 - Přidat autentizaci uživatelů (Spring Security, login/registrace)  
 - Připojit produkční databázi (PostgreSQL/MySQL)  
