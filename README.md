@@ -41,7 +41,7 @@ Projekt umožňuje spravovat články (CRUD operace: vytvoření, úprava, smaz�
 ---
 
 ## Backend features
-- návrh REST API
+- MVC architektura
 - validace dat pomocí @Valid
 - práce s databází přes JPA/Hibernate
 - oddělení vrstev (controller → service → repository)
